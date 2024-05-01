@@ -5,6 +5,10 @@ body {
   height: 100%;
 }
 
+h1,h2 {
+  text-align: center;
+}
+
 .wrapper {
   background-color: white;
 }
